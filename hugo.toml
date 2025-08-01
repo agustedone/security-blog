@@ -1,0 +1,9 @@
+baseURL = 'https://blackoffset.netlify.app/'
+languageCode = 'en-us'
+title = 'black offset'
+theme = 'hugo-PaperMod-master'
+enableRobotsTXT = false
+
+[params]
+  ShowReadingTime = true
+  env = "production"
