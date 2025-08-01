@@ -2,7 +2,9 @@ backend:
   name: github
   repo: agustedone/security-blog
   branch: main
-  auth_type: implicit
+  auth_type: pkce
+  client_id: Ov23ctNGmZ6V0sFzIwQk
+  scope: repo
 media_folder: "static/uploads"
 public_folder: "/uploads"
 collections:

@@ -3,7 +3,7 @@ backend:
   repo: agustedone/security-blog
   branch: main
   auth_type: pkce
-  client_id: Ov23ctNGmZ6V0sFzIwQk
+  app_id: Ov23ctNGmZ6V0sFzIwQk
   scope: repo
 media_folder: "static/uploads"
 public_folder: "/uploads"
