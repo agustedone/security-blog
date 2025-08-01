@@ -3,7 +3,7 @@ backend:
   repo: agustedone/security-blog
   branch: main
   auth_type: pkce
-  app_id: Ov23ctNGmZ6V0sFzIwQk
+  client_id: Ov23ctNGmZ6V0sFzIwQk
   scope: repo
   base_url: https://github.com
   auth_endpoint: login/oauth/authorize
