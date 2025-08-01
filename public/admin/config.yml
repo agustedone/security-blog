@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: agustedone/security-blog      # <- TU repo
   branch: main
+  auth_type: implicit                 # OAuth implícito (solo clic en “Log in with GitHub”
 media_folder: "static/uploads"
 public_folder: "/uploads"
 collections:
